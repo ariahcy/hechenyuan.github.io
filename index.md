@@ -20,7 +20,7 @@ _固定收益研究实习生（利率债方向）_
   - 深入学习利率债分析框架：对影响利率债走势的基本面、政策面、资金面和情绪面进行研究，协助研究员完成固收课题研究项目及研究报告写作多稿；
 
 - 工作内容展示：
-[]
+[https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E5%88%A9%E7%8E%87%E5%80%BA%E5%91%A8%E6%8A%A5%EF%BC%9A%E4%BE%9B%E7%BB%99%E5%86%B2%E5%87%BB%E4%B8%8D%E6%98%8E%E6%98%BE%EF%BC%8C%E6%94%B6%E7%9B%8A%E7%8E%87%E6%9B%B2%E7%BA%BF%E8%B5%B0%E5%B9%B3.docx]
 []
 
 
