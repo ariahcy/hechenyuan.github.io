@@ -25,7 +25,7 @@
 [宏观经济数据快评](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE%E5%BF%AB%E8%AF%84.pdf)
 [固收专题报告](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E4%BD%9C%EF%BC%9A%E5%9C%B0%E5%8C%BA%E7%A4%BE%E8%9E%8D%E4%B8%AD%E7%9A%84%E2%80%9C%E9%A9%AC%E5%A4%AA%E6%95%88%E5%BA%94%E2%80%9D%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89.pdf)
 - 工作展示（部分）：
-![展示](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/1.jpg)
+![展示](https://raw.githubusercontent.com/ariahcy/hechenyuan.github.io/gh-pages/1.jpg)
 
 
 ##### 2021年5月-2021年7月：富国基金管理有限公司                                                                                                                
@@ -49,7 +49,7 @@
 [公司点评](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E5%BE%A1%E5%AE%B6%E6%B1%87%E5%85%AC%E5%91%8A%E7%82%B9%E8%AF%84%EF%BC%9A%E8%82%A1%E6%9D%83%E6%BF%80%E5%8A%B1%E8%8C%83%E5%9B%B4%E5%B9%BF%EF%BC%8C%E7%9B%AE%E6%A0%87%E9%AB%98%E5%A2%9E%E9%95%BF.pdf)
 [公司点评](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C%EF%BC%9A%E4%B9%B0%E9%87%8F%E6%A8%A1%E5%BC%8F%E4%B8%8B%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%EF%BC%9F.pdf)
 - 工作展示（部分）：
-![展示](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/2.jpg)
+![展示](https://raw.githubusercontent.com/ariahcy/hechenyuan.github.io/gh-pages/2.jpg)
 
 
 ### 项目经历
