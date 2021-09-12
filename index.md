@@ -60,7 +60,7 @@
 - 成果展示（完整）：
 [展示PPT](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E4%B8%8A%E6%B5%B7%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6%2B%E6%9C%89bear%E6%9D%A5.pdf)
 - 部分展示：
-![展示](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/3.jpg)
+![展示](https://raw.githubusercontent.com/ariahcy/hechenyuan.github.io/gh-pages/3.jpg)
 
 
 ##### 2018年3月-2018年6月：国家级创新创业训练项目
