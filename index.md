@@ -74,22 +74,4 @@
 - [计算机能力](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/7.%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%AD%89%E7%BA%A7%E8%AF%81%E6%98%8E.pdf)：通过全国计算机二、三、四级考试，掌握C, Python, MySQL，能熟练运用OFFICE相关软件
 
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+~FIN~
