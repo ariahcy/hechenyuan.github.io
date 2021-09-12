@@ -26,7 +26,6 @@
 [固收专题报告](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E4%BD%9C%EF%BC%9A%E5%9C%B0%E5%8C%BA%E7%A4%BE%E8%9E%8D%E4%B8%AD%E7%9A%84%E2%80%9C%E9%A9%AC%E5%A4%AA%E6%95%88%E5%BA%94%E2%80%9D%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89.pdf)
 - 工作展示（部分）：
 ![展示](https://raw.githubusercontent.com/ariahcy/hechenyuan.github.io/gh-pages/1.jpg)
-![1](https://user-images.githubusercontent.com/71890129/132983336-fd8ae154-dafd-469d-92c4-f2c7a2ee49c2.jpg)
 
 
 ##### 2021年5月-2021年7月：富国基金管理有限公司                                                                                                                
