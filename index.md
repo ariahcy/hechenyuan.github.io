@@ -20,9 +20,9 @@ _固定收益研究实习生（利率债方向）_
   - 深入学习利率债分析框架：对影响利率债走势的基本面、政策面、资金面和情绪面进行研究，协助研究员完成固收课题研究项目及研究报告写作多稿；
 
 - 工作内容展示：
-[利率债周报](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E5%88%A9%E7%8E%87%E5%80%BA%E5%91%A8%E6%8A%A5%EF%BC%9A%E4%BE%9B%E7%BB%99%E5%86%B2%E5%87%BB%E4%B8%8D%E6%98%8E%E6%98%BE%EF%BC%8C%E6%94%B6%E7%9B%8A%E7%8E%87%E6%9B%B2%E7%BA%BF%E8%B5%B0%E5%B9%B3.docx)
-[宏观经济数据快评](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE%E5%BF%AB%E8%AF%84.docx)
-[固收专题报告](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E4%BD%9C%EF%BC%9A%E5%9C%B0%E5%8C%BA%E7%A4%BE%E8%9E%8D%E4%B8%AD%E7%9A%84%E2%80%9C%E9%A9%AC%E5%A4%AA%E6%95%88%E5%BA%94%E2%80%9D%E3%80%90%E5%9B%BE1-9%E3%80%91%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89.doc)
+[利率债周报](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E5%88%A9%E7%8E%87%E5%80%BA%E5%91%A8%E6%8A%A5%EF%BC%9A%E4%BE%9B%E7%BB%99%E5%86%B2%E5%87%BB%E4%B8%8D%E6%98%8E%E6%98%BE%EF%BC%8C%E6%94%B6%E7%9B%8A%E7%8E%87%E6%9B%B2%E7%BA%BF%E8%B5%B0%E5%B9%B3.pdf)
+[宏观经济数据快评](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE%E5%BF%AB%E8%AF%84.pdf)
+[固收专题报告](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E4%BD%9C%EF%BC%9A%E5%9C%B0%E5%8C%BA%E7%A4%BE%E8%9E%8D%E4%B8%AD%E7%9A%84%E2%80%9C%E9%A9%AC%E5%A4%AA%E6%95%88%E5%BA%94%E2%80%9D%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89.pdf)
 
 
 **2021年5月-2021年7月：富国基金管理有限公司**
@@ -42,9 +42,9 @@ _纺服及化妆品组（新财富）行业研究实习生_
   - 协助研究员撰写深度报告：收集某IPO公司财务、非财务信息并整理，对数据进行初步处理与分析；重点分析了该公司的核心竞争力部分：首先分析了该公司的市占率与预计市场容量，再对国内外竞品进行分析，最后结合科技技术背书的竞争优势对目标公司的资源与能力进行阐述与分析。
 
 - 工作内容展示：
-[化妆品行业报告](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E5%8C%96%E5%A6%86%E5%93%81%E6%9C%88%E6%8A%A52%E6%9C%88%E6%9C%88%E6%8A%A5%EF%BC%9A1-2%E6%9C%88%E7%BA%BF%E4%B8%8A%E6%8C%81%E7%BB%AD%E6%99%AF%E6%B0%94%EF%BC%8C%E7%BB%A7%E7%BB%AD%E6%8E%A8%E8%8D%90%E8%BE%B9%E9%99%85%E6%94%B9%E5%96%84%E6%A0%87%E7%9A%84.docx)
-[公司点评](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E5%BE%A1%E5%AE%B6%E6%B1%87%E5%85%AC%E5%91%8A%E7%82%B9%E8%AF%84%EF%BC%9A%E8%82%A1%E6%9D%83%E6%BF%80%E5%8A%B1%E8%8C%83%E5%9B%B4%E5%B9%BF%EF%BC%8C%E7%9B%AE%E6%A0%87%E9%AB%98%E5%A2%9E%E9%95%BF.docx)
-[公司点评](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C%EF%BC%9A%E4%B9%B0%E9%87%8F%E6%A8%A1%E5%BC%8F%E4%B8%8B%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%EF%BC%9F.docx)
+[化妆品行业报告](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E5%8C%96%E5%A6%86%E5%93%81%E6%9C%88%E6%8A%A52%E6%9C%88%E6%9C%88%E6%8A%A5%EF%BC%9A1-2%E6%9C%88%E7%BA%BF%E4%B8%8A%E6%8C%81%E7%BB%AD%E6%99%AF%E6%B0%94%EF%BC%8C%E7%BB%A7%E7%BB%AD%E6%8E%A8%E8%8D%90%E8%BE%B9%E9%99%85%E6%94%B9%E5%96%84%E6%A0%87%E7%9A%84.pdf)
+[公司点评](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E5%BE%A1%E5%AE%B6%E6%B1%87%E5%85%AC%E5%91%8A%E7%82%B9%E8%AF%84%EF%BC%9A%E8%82%A1%E6%9D%83%E6%BF%80%E5%8A%B1%E8%8C%83%E5%9B%B4%E5%B9%BF%EF%BC%8C%E7%9B%AE%E6%A0%87%E9%AB%98%E5%A2%9E%E9%95%BF.pdf)
+[公司点评](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C%EF%BC%9A%E4%B9%B0%E9%87%8F%E6%A8%A1%E5%BC%8F%E4%B8%8B%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%EF%BC%9F.pdf)
 
 
 ### 项目经历
@@ -53,7 +53,7 @@ _纺服及化妆品组（新财富）行业研究实习生_
 - 项目介绍：华为财务精英挑战赛是华为公司面向全球大学生提供的一个“专业深度、企业实战、全球视野”的财务竞技平台。自2011年创办以来至今，已有上万余名财子报名参赛，业已成为商科类最具吸引力及获得感的校园赛事之一。
 - 项目责任：负责财务会计核算和商业计划书中竞争分析和商业模式的撰写；
 - 成果展示：
-[展示PPT](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E9%99%84%E4%BB%B6-A%E5%85%AC%E5%8F%B8%E4%BC%B0%E5%80%BC%E6%A8%A1%E5%9E%8B.xlsx)
+[展示PPT](https://github.com/ariahcy/hechenyuan.github.io/blob/gh-pages/%E4%B8%8A%E6%B5%B7%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6%2B%E6%9C%89bear%E6%9D%A5.pdf)
 
 
 **2018年3月-2018年6月：国家级创新创业训练项目**
@@ -75,10 +75,6 @@ _纺服及化妆品组（新财富）行业研究实习生_
 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
@@ -97,12 +93,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ariahcy/hechenyuan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
